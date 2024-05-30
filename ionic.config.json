@@ -1,0 +1,7 @@
+{
+  "name": "FunGame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
